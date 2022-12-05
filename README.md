@@ -1,1 +1,1 @@
-# Maven - Jenkins Integration 💕♾
+# Maven - Jenkins Integration 
